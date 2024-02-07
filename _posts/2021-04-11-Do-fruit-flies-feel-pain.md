@@ -1,7 +1,7 @@
 ---
 layout: post
 share: true
-titel: Do fruit flies feel pain?
+title: Do fruit flies feel pain?
 date: 2021-04-11 +0100
 filename: do-fruit-flies-feel-pain
 tags:
