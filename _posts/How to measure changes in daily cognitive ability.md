@@ -19,7 +19,7 @@ In the comments of the _LessWrong_ article, someone proposes simple reaction tim
 
 A Spanish research team randomized 138 older adults into three groups. The first group took part in a resistance training exercise twice a week, the second group did the same exercise combined with some cognitive tasks and the third group served as controls. The experiment took twelve weeks and a battery of reaction time tests were performed before and after. Both interventions groups improved significantly on simple reaction time tests (p < .001) while the control group’s performance worsened non-significantly [2].
 
-![reactiontime.jpg](../images/obsidian/reactiontime.jpg)
+![[../images/obsidian/reactiontime.jpg|reactiontime.jpg]]
 
 ###### This graph shows the  simple reaction times before and after the intervention for the three groups and is recreated from the paper. Because the absolute values were not explicitely given (only the differences), I had to guess them from the figure.
 
