@@ -5,7 +5,7 @@ origdate: 2023-12-27
 maintag:
   - books
 ---
-I recently started taking the subway regularly and soon ran into the problem that Derek Parfit’s Reasons and Persons, which currently constitutes my main reading material, is simply too dense to follow on my morning commute. This prompted the need to find something that is easier to understand and more story driven. And now you know the exciting story how I started reading “Surely You’re Joking, Mr. Feynman!”
+ I recently started taking the subway regularly and soon ran into the problem that Derek Parfit’s Reasons and Persons, which currently constitutes my main reading material, is simply too dense to follow on my morning commute. This prompted the need to find something that is easier to understand and more story driven. And now you know the exciting story how I started reading “Surely You’re Joking, Mr. Feynman!”
 
 The book is a collection of stories that follow Mr. Feynman through his life.
 
