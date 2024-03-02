@@ -31,6 +31,6 @@ Of course, two studies are not enough to give a high degree of certainty to show
 
 ###### [1] Der, Geoff & Deary, Ian. (2003). IQ, reaction time and the differentiation hypothesis. Intelligence. 31. 491-503. 10.1016/S0160-2896(02)00189-7.
 
-###### [2] León, Julia & Ureña Espa, Aurelio & Bolaños, Manuel & Bilbao, Alfonso & Oña, Antonio. (2015). A Combination of Physical and Cognitive Exercise Improves Reaction Time in 61-84-Year-Old Persons.. Journal of aging and physical activity. 10.1123/japa.2012-0313. 
+###### [2] León, Julia & Ureña Espa, Aurelio & Bolaños, Manuel & Bilbao, Alfonso & Oña, Antonio. (2015). A Combination of Physical and Cognitive Exercise Improves Reaction Time in 61-84-Year-Old Persons Journal of aging and physical activity. 10.1123/japa.2012-0313. 
 
 ###### [3] Cranson, R. W., Orme-Johnson, D. W., Gackenbach, J., Dillbeck, M. C., Jones, C. H., & Alexander, C. N. (1991). Transcendental meditation and improved performance on intelligence-related measures: A longitudinal study. _Personality and Individual Differences, 12_(10), 1105–1116. [https://doi.org/10.1016/0191-8869(91)90040-I](https://psycnet.apa.org/doi/10.1016/0191-8869(91)90040-I)
