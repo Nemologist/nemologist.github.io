@@ -7,13 +7,12 @@ maintag:
 ---
 ### Science
 
-| File                                                                                         | origdate          | tags                                        |
-| -------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------- |
-| [Are insects conscious](./Are%20insects%20conscious.md)                                     | November 13, 2021 | <ul><li>suffering</li></ul>                 |
-| [Coffee and coal](./Coffee%20and%20coal.md)                                                 | July 26, 2021     | \-                                          |
-| [Do fruit flies feel pain](./Do%20fruit%20flies%20feel%20pain.md)                               | March 21, 2021    | <ul><li>suffering</li><li>insects</li></ul> |
-| [Literature Review - Minimalist Footwear](./Literature%20Review%20-%20Minimalist%20Footwear.md) | May 04, 2021      | \-                                          |
-| [Theories of willpower](./Theories%20of%20willpower.md)                                     | July 05, 2022     | \-                                          |
+| File                                                           | origdate          | tags                                        |
+| -------------------------------------------------------------- | ----------------- | ------------------------------------------- |
+| [Are insects conscious](./Are%20insects%20conscious.md)       | November 13, 2021 | <ul><li>suffering</li></ul>                 |
+| [Coffee and coal](./Coffee%20and%20coal.md)                   | July 26, 2021     | \-                                          |
+| [Do fruit flies feel pain](./Do%20fruit%20flies%20feel%20pain.md) | March 21, 2021    | <ul><li>suffering</li><li>insects</li></ul> |
+| [Theories of willpower](./Theories%20of%20willpower.md)       | July 05, 2022     | \-                                          |
 
 
 ### Books
@@ -22,12 +21,12 @@ maintag:
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
 | [Book review A Short History of Ancient Greece](./Book%20review%20A%20Short%20History%20of%20Ancient%20Greece.md)                                                       | July 31, 2021     | <ul><li>Antiquity</li></ul>                                |
 | [Notes on SLEEP A Very Short Introduction](./Notes%20on%20SLEEP%20A%20Very%20Short%20Introduction.md)                                                                 | July 29, 2021     | \-                                                         |
-| [The Remains of the Father](./The%20Remains%20of%20the%20Father.md)                                                                                               | April 25, 2021    | \-                                                         |
 | [Of mice and men - Book review](./Of%20mice%20and%20men%20-%20Book%20review.md)                                                                                       | December 07, 2021 | \-                                                         |
-| [Book Review Drop Dead Healthy](./Book%20Review%20Drop%20Dead%20Healthy.md)                                                                                       | May 28, 2022      | \-                                                         |
+| [The Remains of the Father](./The%20Remains%20of%20the%20Father.md)                                                                                               | April 25, 2021    | \-                                                         |
 | [Book Review Kierkegaard A Very Short Introduction](./Book%20Review%20Kierkegaard%20A%20Very%20Short%20Introduction.md)                                               | May 29, 2022      | <ul><li>ethics</li></ul>                                   |
-| [Book Review Wild Animal Ethics](./Book%20Review%20Wild%20Animal%20Ethics.md)                                                                                     | June 21, 2022     | <ul><li>ethics</li><li>suffering</li><li>animals</li></ul> |
+| [Book Review Drop Dead Healthy](./Book%20Review%20Drop%20Dead%20Healthy.md)                                                                                       | May 28, 2022      | \-                                                         |
 | [Book Review Utilitarianism](./Book%20Review%20Utilitarianism.md)                                                                                             | April 03, 2022    | \-                                                         |
+| [Book Review Wild Animal Ethics](./Book%20Review%20Wild%20Animal%20Ethics.md)                                                                                     | June 21, 2022     | <ul><li>ethics</li><li>suffering</li><li>animals</li></ul> |
 | [Passages I highlighted in my copy of “Surely You’re Joking, Mr. Feynman”](./Passages%20I%20highlighted%20in%20my%20copy%20of%20%E2%80%9CSurely%20You%E2%80%99re%20Joking,%20Mr.%20Feynman%E2%80%9D.md) | December 27, 2023 | \-                                                         |
 
 
