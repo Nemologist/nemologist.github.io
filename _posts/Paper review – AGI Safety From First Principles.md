@@ -9,15 +9,15 @@ tags:
 ---
 Over the last months, a flood of new papers presenting advanced AI systems have been published. In January, OpenAI released DALL·E 2, a text-to-image model which can generate aesthetically pleasing images with startling accuracy [1].
 
-![[../images/obsidian/agi1.jpg|agi1.jpg]]
+![[agi1.jpg|agi1.jpg]]
 
 A couple of weeks later, Google unveiled PaLM, a 540-billion parameter language system capable of verbal reasoning and source code generation [2].
 
-![[../images/obsidian/agi2.jpg|agi2.jpg]]
+![[agi2.jpg|agi2.jpg]]
 
 And, just shortly after that, DeepMind released Gato, a generalist model, which is still rough but can execute diverse tasks such as labeling images, replying to texts or playing video games [3].
 
-![[../images/obsidian/agi3.jpg|agi3.jpg]]
+![[agi3.jpg|agi3.jpg]]
 
 This has provoked a wave of discussion across the machine learning community. As far as I can gauge, most reactions have been celebratory, seeing these advances as the first steps in devising better and better AI systems that could soon be capable of relieving humans from a wide variety of unpleasant but necessary tasks. Other reactions have been more cautious and a few have been straight-up horrified, painting the image of a future where AI turns against its human creators. These later views have mainly been advanced by a small but determined research community and an active blogosphere, centered around the _Machine Intelligence Research Institute_ _(MIRI)_ and the _Alignment Research Center_. These groups study and aim to create Artificial General Intelligences (AGIs) which are fundamentally aligned with human values and unlikely to turn against the species that designed them. I have never really understood this perspective, as it was unclear to me how exactly an AI system could gain control over humanity. In order to understand this position better, I read _AGI Safety From First Principles_ by Richard Ngo, formerly a researcher on the AGI safety team at DeepMind [4].
 
