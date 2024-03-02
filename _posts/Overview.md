@@ -7,13 +7,13 @@ maintag:
 ---
 ### Science
 
-| File                                                                                                           | origdate          | tags                                        |
-| -------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------- |
-| [Are insects conscious](./Are%20insects%20conscious.md)                                                       | November 13, 2021 | <ul><li>suffering</li></ul>                 |
-| [Coffee and coal](./Coffee%20and%20coal.md)                                                                   | July 26, 2021     | \-                                          |
-| [Do fruit flies feel pain](./Do%20fruit%20flies%20feel%20pain.md)                                                 | March 21, 2021    | <ul><li>suffering</li><li>insects</li></ul> |
-| [2021-05-04-Literature-Review-Minimalist-Footwear](./2021-05-04-Literature-Review-Minimalist-Footwear.md) | May 04, 2021      | \-                                          |
-| [Theories of willpower](./Theories%20of%20willpower.md)                                                       | July 05, 2022     | \-                                          |
+| File                                                                                         | origdate          | tags                                        |
+| -------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------- |
+| [Are insects conscious](./Are%20insects%20conscious.md)                                     | November 13, 2021 | <ul><li>suffering</li></ul>                 |
+| [Coffee and coal](./Coffee%20and%20coal.md)                                                 | July 26, 2021     | \-                                          |
+| [Do fruit flies feel pain](./Do%20fruit%20flies%20feel%20pain.md)                               | March 21, 2021    | <ul><li>suffering</li><li>insects</li></ul> |
+| [Literature Review - Minimalist Footwear](./Literature%20Review%20-%20Minimalist%20Footwear.md) | May 04, 2021      | \-                                          |
+| [Theories of willpower](./Theories%20of%20willpower.md)                                     | July 05, 2022     | \-                                          |
 
 
 ### Books
