@@ -37,11 +37,11 @@ The rules were simple. I was only allowed to eat these four foods, cooked in the
 
 #### III
 
-![[weightbyday.png|weightbyday.png]]
+![weightbyday.png](../images/obsidian/weightbyday.png)
 
 Over the 7 day period, I lost 3.6 kg. My body mass index declined from 22.39 kg/m2 to 21.14 kg/m2. As you can see in the graph, I didn’t lose any weight on March the 6th and the 7th. On these days, I went to work and because I’m not socially awkward enough to just sit there while everyone feasts, I ate at the canteen with my coworkers.
 
-![[caloriesconsumed.png|caloriesconsumed.png]]
+![caloriesconsumed.png](../images/obsidian/caloriesconsumed.png)
 
 Above you can see how many calories I consumed per day. I guessed 800 kcal for the canteen food, which might be an overestimation. According to my fitbit, I burn around 2000 kcal per day, so I have sustained a substantial calorie deficit during the entire week. It wasn’t that hard because I was allowed to eat as much as I wanted, however, it was very unpleasant. None of the staple foods tasted very well and I longed for something spicy and interesting. My weakness in this regard really surprised me – I don’t think I could have continued the diet for much longer. Nevertheless, in terms of weight loss, the experiment was a success. I lost weight more easily than during my previous experiments and my productivity didn’t suffer.
 
