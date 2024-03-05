@@ -12,7 +12,7 @@ I.
 
 It was hard to find reliable data on historical figures, especially data that easily lends itself to comparison over time. The best I dug up was Wikipedia’s “List of the Multilingual Presidents of the United States” [1], which reaches back into the 18th century and seems pretty comprehensive. From this, I created the following graph using only the languages in which the men were fluent \*. This is because I think reporting on fragmentary language skills becomes more unreliable as we go back in time.
 
-![us-presidents.png](../images/obsidian/us-presidents.png)
+![[us-presidents.png|us-presidents.png]]
 ###### Number of foreign languages spoken by us presidents
 
 The graph shows the year each president took office vs the number of languages they knew besides English.  In the years following the independence, the US was led by several polyglots, who were followed by a line of people who knew two languages (mostly Latin and Ancient Greek) and then, nothing. It is kind of eerie to think that the last American president who spoke a foreign language died in 1945.
@@ -28,7 +28,7 @@ In the search for a reason that could explain this dramatic decline, I found thi
 
 It is noteworthy that this article was published a month before the United States entered World War I, and was well on its way to become the world’s dominant economic power. To keep the wheels from grinding to a halt, the country needed more skilled laborers and, increasingly, white-color professionals. That could not have been possible without opening the universities to students who were not raised as part of the elite.
 
-![languagegraph.png](../images/obsidian/languagegraph.png)
+![[languagegraph.png|languagegraph.png]]
 
 This graph, which I took from here [3], demonstrates this impressively.
 
