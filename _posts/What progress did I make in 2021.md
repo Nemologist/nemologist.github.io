@@ -21,7 +21,7 @@ It wasn’t a great year workout-wise but not as terrible as 2021. After the res
 
 I read some books this year, even though the overall tally was less than what I had hoped. I recorded how long on spent on each individual book (this includes some that were started in 2020) and some of these are shown below.
 
-![2021.jpg](../images/obsidian/2021.jpg)
+![[2021.jpg|2021.jpg]]
 
 _What I talk about when I talk about running by Haruki Murakami_  
 I purchased this book in order to motivate me to run more. This was quite effective because the book was so boring that I spent less time reading and more time doing other stuff. Usually, I like Murakami’s works but this one I couldn’t even finish.

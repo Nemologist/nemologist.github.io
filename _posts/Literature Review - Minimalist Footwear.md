@@ -32,13 +32,13 @@ As described in the excerpt above, the BF group ran fewer miles on average per w
 
 The second good study I found was published in 2017 by Fuller et al. and is called “Body Mass and Weekly Training Distance Influence the Pain and Injuries Experienced by Runners Using Minimalist Shoes: A Randomized Controlled Trial” [2]. A group of 61 trained runners was randomly divided into a minimalist shoes (MM) and conventionally shoes (CS) group. Over 26 weeks they gradually increased the time in their allocated shoes. Subjective pain intensity and injury rates were measured. In the CS group, 37% of runners suffered an injury versus 52% in the MM group. Below, you can see these numbers broken down by injury type. Please keep in mind that the sample sizes are small, so low confidence here.
 
-![sustainedinjuries.png](../images/obsidian/sustainedinjuries.png)
+![[sustainedinjuries.png|sustainedinjuries.png]]
 
 More CS wearers sustained knee injuries which fits well with the other study, but overall, it’s hard to read anything definite from this data. The numbers seem all over the place and in the case of calf and shin, even counterintuitive.
 
 Additionally, the authors also wanted to assess how much pain the runners in both groups felt. They achieved this by letting the subjects point out the worst running-related pain they had felt in the past week on a 100mm scale (0 mm -> no pain and 100 mm -> worst pain).
 
-![sustainedinjuries.png](../images/obsidian/sustainedinjuries.png)
+![[sustainedinjuries.png|sustainedinjuries.png]]
 
 As you can see, MS participants fare considerably worse than CS. This is true even for body parts where minimalist shoe wearers reported fewer injuries, such as the knee. I am confused by this result. Maybe MS runners think they are getting hurt more than they are in reality? It is also noteworthy, that the MS group ran less on average than the CS group (20.7 vs 24.2 km per week), maybe because they are in pain more often? This begins to look bad for the barefoot gang.
 
@@ -50,7 +50,7 @@ _For runners using minimalist shoes, sustaining an injury became increasingly mo
 
 The study also contains a graph to accompany these claims which I have recreated here without the standard errors.
 
-![hazardratio.png](../images/obsidian/hazardratio.png)
+![[hazardratio.png|hazardratio.png]]
 
 The blue line represents the ratio of injury risk for minimalist vs conventional shoes. The intersection with the red line marks the point of equal danger. Runners weighing 71.4 kg are equally likely to get injured wearing MS or CS.  Runners lighter than that were safer in minimalist shoes, but heavier runners carried more risk from them. Intuitively this makes sense, but the error rates make the result look pretty shaky.
 
@@ -64,7 +64,7 @@ What’s going on here? The partially minimalist group is approximately twice as
 
 Maybe, the relationship between cushioning and injury risk is best described by a bell curve. Runners with ultra thin soles tread so carefully that they rarely hurt themselves and runners that walk around with 600€ 10cm thick foam shoes are insulated against danger and can stomp as much as they want.
 
-![mountainpain.png](../images/obsidian/mountainpain.png)
+![[mountainpain.png|mountainpain.png]]
 
 Even though it fits the data, this theory is tongue-in-cheek and I don’t believe in it at all. I expect the body to constantly make an internal calculation on how careful it walks in relation to the terrain and ground solidity.  I also expect this relationship to be approximately linear. The “Mountain” theory only makes sense if there is a binary cutoff between careful and careless, a hypothesis, for which I have never seen any indication. This study leaves more questions than answers and I would love to investigate the data more, however, the publisher decided to remove the supplement leaving us in the dry. It Is also noteworthy that the relationship between the fully minimalist and the conventional shoes was not significant. You can find a good discussion on this study, including comments from the main author [here](https://therunningclinic.com/runners/blog/archives-anglaises/first-published-randomized-controlled-trial-minimalist-vs-maximalist-running-shoes/).
 
