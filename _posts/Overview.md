@@ -80,8 +80,8 @@ maintag:
 
 ### Miscellaneous
 
-| File                                                                                                           | origdate       | tags                    |
-| -------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------- |
-| [Are our elites foreign language skills declining](./Are%20our%20elites%20foreign%20language%20skills%20declining.md) | April 15, 2021 | \-                      |
-| [Earthlings](./Earthlings.md)                                                                             | May 09, 2021   | <ul><li>movie</li></ul> |
+| File                                                                                                                                 | origdate       | tags                    |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------- |
+| [Earthlings](./Earthlings.md)                                                                                                   | May 09, 2021   | <ul><li>movie</li></ul> |
+| [2021-04-15-are-our-elites-foreign-language-skills-declining](./2021-04-15-are-our-elites-foreign-language-skills-declining.md) | April 15, 2021 | \-                      |
 
