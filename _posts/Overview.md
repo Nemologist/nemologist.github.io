@@ -21,13 +21,13 @@ maintag:
 | File                                                                                                                                                           | origdate          | tags                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
 | [Book review A Short History of Ancient Greece](./Book%20review%20A%20Short%20History%20of%20Ancient%20Greece.md)                                                       | July 31, 2021     | <ul><li>Antiquity</li></ul>                                |
-| [Notes on SLEEP A Very Short Introduction](./Notes%20on%20SLEEP%20A%20Very%20Short%20Introduction.md)                                                                 | July 29, 2021     | \-                                                         |
 | [The Remains of the Father](./The%20Remains%20of%20the%20Father.md)                                                                                               | April 25, 2021    | \-                                                         |
 | [Of mice and men - Book review](./Of%20mice%20and%20men%20-%20Book%20review.md)                                                                                       | December 07, 2021 | \-                                                         |
+| [Notes on SLEEP A Very Short Introduction](./Notes%20on%20SLEEP%20A%20Very%20Short%20Introduction.md)                                                                 | July 29, 2021     | \-                                                         |
 | [Book Review Drop Dead Healthy](./Book%20Review%20Drop%20Dead%20Healthy.md)                                                                                       | May 28, 2022      | \-                                                         |
 | [Book Review Kierkegaard A Very Short Introduction](./Book%20Review%20Kierkegaard%20A%20Very%20Short%20Introduction.md)                                               | May 29, 2022      | <ul><li>ethics</li></ul>                                   |
-| [Book Review Utilitarianism](./Book%20Review%20Utilitarianism.md)                                                                                             | April 03, 2022    | \-                                                         |
 | [Book Review Wild Animal Ethics](./Book%20Review%20Wild%20Animal%20Ethics.md)                                                                                     | June 21, 2022     | <ul><li>ethics</li><li>suffering</li><li>animals</li></ul> |
+| [Book Review Utilitarianism](./Book%20Review%20Utilitarianism.md)                                                                                             | April 03, 2022    | \-                                                         |
 | [Passages I highlighted in my copy of “Surely You’re Joking, Mr. Feynman”](./Passages%20I%20highlighted%20in%20my%20copy%20of%20%E2%80%9CSurely%20You%E2%80%99re%20Joking,%20Mr.%20Feynman%E2%80%9D.md) | December 27, 2023 | \-                                                         |
 
 
@@ -55,12 +55,12 @@ maintag:
 
 | File                                                                                                                                           | origdate           | tags |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
-| [Is Snacking morally wrong](./Is%20Snacking%20morally%20wrong.md)                                                                               | December 28, 2022  | \-   |
 | [Is caring less about your happiness the path to being happy](./Is%20caring%20less%20about%20your%20happiness%20the%20path%20to%20being%20happy.md)           | October 09, 2022   | \-   |
+| [Is Snacking morally wrong](./Is%20Snacking%20morally%20wrong.md)                                                                               | December 28, 2022  | \-   |
 | [Should we try to avoid nightmares even if we don’t remember them](./Should%20we%20try%20to%20avoid%20nightmares%20even%20if%20we%20don%E2%80%99t%20remember%20them.md) | September 07, 2022 | \-   |
 | [Thoughts on Nozick’s Experience Machine](./Thoughts%20on%20Nozick%E2%80%99s%20Experience%20Machine.md)                                                   | March 22, 2022     | \-   |
-| [On moral luck](./On%20moral%20luck.md)                                                                                                       | September 06, 2023 | \-   |
 | [Love in the Experience Machine](./Love%20in%20the%20Experience%20Machine.md)                                                                     | March 09, 2023     | \-   |
+| [On moral luck](./On%20moral%20luck.md)                                                                                                       | September 06, 2023 | \-   |
 
 
 ### Deutsch
