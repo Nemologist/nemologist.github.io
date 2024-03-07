@@ -9,10 +9,10 @@ maintag:
 
 | File                                                                                         | origdate          | tags                                        |
 | -------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------- |
-| [Coffee and coal](./Coffee%20and%20coal.md)                                                 | July 26, 2021     | \-                                          |
-| [Do fruit flies feel pain](./Do%20fruit%20flies%20feel%20pain.md)                               | March 21, 2021    | <ul><li>suffering</li><li>insects</li></ul> |
 | [Literature Review - Minimalist Footwear](./Literature%20Review%20-%20Minimalist%20Footwear.md) | May 04, 2021      | \-                                          |
 | [2021-11-13-are-insects-conscious](./2021-11-13-are-insects-conscious.md)               | November 13, 2021 | <ul><li>suffering</li></ul>                 |
+| [2021-07-26-coffee-and-coal](./2021-07-26-coffee-and-coal.md)                           | July 26, 2021     | \-                                          |
+| [2021-03-21-do-fruit-flies-feel-pain](./2021-03-21-do-fruit-flies-feel-pain.md)         | March 21, 2021    | <ul><li>suffering</li><li>insects</li></ul> |
 | [Theories of willpower](./Theories%20of%20willpower.md)                                     | July 05, 2022     | \-                                          |
 
 
@@ -20,10 +20,10 @@ maintag:
 
 | File                                                                                                                                                           | origdate          | tags                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
-| [Book review A Short History of Ancient Greece](./Book%20review%20A%20Short%20History%20of%20Ancient%20Greece.md)                                                       | July 31, 2021     | <ul><li>Antiquity</li></ul>                                |
 | [Of mice and men - Book review](./Of%20mice%20and%20men%20-%20Book%20review.md)                                                                                       | December 07, 2021 | \-                                                         |
 | [The Remains of the Father](./The%20Remains%20of%20the%20Father.md)                                                                                               | April 25, 2021    | \-                                                         |
 | [Notes on SLEEP A Very Short Introduction](./Notes%20on%20SLEEP%20A%20Very%20Short%20Introduction.md)                                                                 | July 29, 2021     | \-                                                         |
+| [2021-07-31-book-review-a-short-history-of-ancient-greece](./2021-07-31-book-review-a-short-history-of-ancient-greece.md)                                 | July 31, 2021     | <ul><li>Antiquity</li></ul>                                |
 | [Book Review Drop Dead Healthy](./Book%20Review%20Drop%20Dead%20Healthy.md)                                                                                       | May 28, 2022      | \-                                                         |
 | [Book Review Kierkegaard A Very Short Introduction](./Book%20Review%20Kierkegaard%20A%20Very%20Short%20Introduction.md)                                               | May 29, 2022      | <ul><li>ethics</li></ul>                                   |
 | [Book Review Wild Animal Ethics](./Book%20Review%20Wild%20Animal%20Ethics.md)                                                                                     | June 21, 2022     | <ul><li>ethics</li><li>suffering</li><li>animals</li></ul> |
@@ -65,10 +65,10 @@ maintag:
 
 ### Deutsch
 
-| File                                                                                                           | origdate          | tags                        |
-| -------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------- |
-| [Gedanken zu Marcus Aurelius’ Selbstbetrachtungen](./Gedanken%20zu%20Marcus%20Aurelius%E2%80%99%20Selbstbetrachtungen.md) | November 28, 2021 | <ul><li>Antiquity</li></ul> |
-| [Gedanken zu Siddhartha](./Gedanken%20zu%20Siddhartha.md)                                                     | June 01, 2022     | <ul><li>buch</li></ul>      |
+| File                                                                                                                               | origdate          | tags                        |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------- |
+| [2021-11-28-gedanken-zu-marcus-aurelius-selbstbetrachtungen](./2021-11-28-gedanken-zu-marcus-aurelius-selbstbetrachtungen.md) | November 28, 2021 | <ul><li>Antiquity</li></ul> |
+| [Gedanken zu Siddhartha](./Gedanken%20zu%20Siddhartha.md)                                                                         | June 01, 2022     | <ul><li>buch</li></ul>      |
 
 
 ### Technology
@@ -82,6 +82,6 @@ maintag:
 
 | File                                                                                                                                 | origdate       | tags                    |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------- |
-| [Earthlings](./Earthlings.md)                                                                                                   | May 09, 2021   | <ul><li>movie</li></ul> |
 | [2021-04-15-are-our-elites-foreign-language-skills-declining](./2021-04-15-are-our-elites-foreign-language-skills-declining.md) | April 15, 2021 | \-                      |
+| [2021-05-09-earthlings](./2021-05-09-earthlings.md)                                                                             | May 09, 2021   | <ul><li>movie</li></ul> |
 
