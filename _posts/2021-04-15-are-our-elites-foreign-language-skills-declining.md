@@ -9,6 +9,8 @@ date: 2021-04-15 +0100
 filename: 2021-04-15-are-our-elites-foreign-language-skills-declining
 permalink: :title
 ---
+a
+
 I am currently listening to “The Name of The Rose” by Umberto Eco, a historical crime drama about two monks-turned-detectives who investigate a series of murders inside a secluded monastery located somewhere in the eastern alps. One thing that surprised me, was how many languages the characters are purported to have spoken. The adolescent hero, Adso of Melk, can converse in his native German as well as in Latin and is also studying Greek on the side. Even the barbarian Salvatore is able to get around in Italian, Latin and French. This theme already caught my eye in Tolstoy’s War and Peace, where the characters are changing languages ad libitum and most seem to have a grasp of, at least, Russian, French, English and German. I only know a few people who speak more than 2 languages and no one who speaks more than four. In a way, this comparison is unfair because Eco writes about monks, whose job it is to study books and Tolstoy writes about Russian aristocrats whose job it is to make conversation and try not to die in duels. However, I wonder if there is nevertheless something going among the elites.
 
 I.
@@ -18,7 +20,7 @@ It was hard to find reliable data on historical figures, especially data that ea
 ![Bild1.png](../images/obsidian/Bild1.png)
 
 
-![](https://nemologist.github.io/images/obsidian//2021/us-presidents.png)
+![](../images/obsidian/us-presidents.png)
 ###### Number of foreign languages spoken by us presidents
 
 The graph shows the year each president took office vs the number of languages they knew besides English.  In the years following the independence, the US was led by several polyglots, who were followed by a line of people who knew two languages (mostly Latin and Ancient Greek) and then, nothing. It is kind of eerie to think that the last American president who spoke a foreign language died in 1945.
@@ -34,7 +36,7 @@ In the search for a reason that could explain this dramatic decline, I found thi
 
 It is noteworthy that this article was published a month before the United States entered World War I, and was well on its way to become the world’s dominant economic power. To keep the wheels from grinding to a halt, the country needed more skilled laborers and, increasingly, white-color professionals. That could not have been possible without opening the universities to students who were not raised as part of the elite.
 
-![](https://nemologist.github.io/images/obsidian//2021/languagegraph.png)
+![](../images/obsidian/languagegraph.png)
 
 This graph, which I took from here [3], demonstrates this impressively.
 
