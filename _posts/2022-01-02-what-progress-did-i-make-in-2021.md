@@ -60,6 +60,8 @@ Starting this blog was easily one of the best decisions of the year. Not only di
 
 Here is a list of all my posts in 2021:
 
+[2021-07-26-coffee-and-coal](./2021-07-26-coffee-and-coal.md)
+
 [Do fruit flies feel pain](./2021-03-21-do-fruit-flies-feel-pain.md#) (April 11, 2021)  
 [Are you elites foreign language skills declining](./2021-04-15-are-our-elites-foreign-language-skills-declining.md#)
 [The Remains of the Father]()
