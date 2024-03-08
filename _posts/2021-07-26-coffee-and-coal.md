@@ -44,16 +44,16 @@ This Review Article [4] summarizes years of research on the effect of caffeine o
 
 Looking deeper into this, I found this double-blind placebo-controlled trial, which gave habitual consumers and habitual non-consumers either a drink containing either a placebo, 75 mg or 150 mg of caffeine [5]. The participants were required to abstain from caffeine consumption overnight, which was confirmed by testing salivary samples. The goal of the study was to determine whether effects are produced by the drug itself or the alleviation of withdrawal. A series of tests were used to assess the cognitive performance at baseline and after, of which I will present some of the ones with significant treatment effects. Please keep in mind, that I have no training in statistics, so I might be making some rookie mistakes here.
 
-![](https://nemologist.github.io/images/obsidian//2021/Bild1.png)
+![](../images/obsidian/Bild1.png)
 
-![](https://nemologist.github.io/images/obsidian//2021/Bild2.png)
+![](../images/obsidian/Bild2.png)
 The first graph shows changes in reaction time from baseline half an hour after consumption. Reaction time was measured by requiring the participants to press a button every time the word “YES” showed up on a screen. You can find more details on the specific tests performed in [6]. The average baseline values for all six groups were between 279 and 288 ms and did not differ significantly here or on any other measure. If I interpret the data correctly, all groups got worse during the second test, but the consumer’s scores deteriorated less.
 
 Only the differences between and the placebo and the 75 mg group are significant, however, there the stuff seems to work better for consumers than non-consumers.
 
 The second graph shows the result of a modified version of this test. Participants were presented with a series of digits and only had to react, if the digit shown matched a target. Here the difference between placebo and both of the treatment groups is significant, but now non-consumers seem to do a little bit better. I don’t have any explanation for this except that this study only used data from 30 participants.
 
-![](https://nemologist.github.io/images/obsidian//2021/Bild3.png)
+![](../images/obsidian/Bild3.png)
 
 The authors also wanted to know how caffeine affected subjective scores of performance. The participants had to evaluate how alert and tired they felt on 100mm scales and a composite “alertness” score was calculated from it.  That consumers show greater improvements than non-consumers makes sense, as the former are in withdrawal. That the effect on non-consumers is significant, is remarkable and a quite good sign.
 
