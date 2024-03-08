@@ -63,7 +63,7 @@ Here is a list of all my posts in 2021:
 [2021-07-26-coffee-and-coal](./2021-07-26-coffee-and-coal.md)
 
 [Do fruit flies feel pain](./2021-03-21-do-fruit-flies-feel-pain.md#) (April 11, 2021)  
-[Are you elites foreign language skills declining](./Are%2520our%2520elite's%2520foreign%2520language%2520skills%2520declining.md#)
+[Are you elites foreign language skills declining](./2021-04-15-are-our-elites-foreign-language-skills-declining.md#)
 [The Remains of the Father]()
 [Literature review – Minimalist Footwear]
 []
