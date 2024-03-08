@@ -8,7 +8,6 @@ tags:
   - movie
 date: 2021-05-09 +0100
 filename: 2021-05-09-earthlings
-permalink: /:filename/
 ---
 a
 
