@@ -3,7 +3,7 @@ share: true
 title: Are our elite's foreign language skills declining?
 date: 2021-04-15 +0100
 filename: 2021-04-15-are-our-elites-foreign-language-skills-declining
-permalink: :filename
+permalink: :title
 ---
 c
 
