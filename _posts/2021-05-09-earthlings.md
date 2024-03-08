@@ -8,6 +8,7 @@ tags:
   - movie
 date: 2021-05-09 +0100
 filename: 2021-05-09-earthlings
+permalink: /:filename/
 ---
 _Since we all inhabit the earth,  
 all of us are considered earthlings.  
