@@ -10,6 +10,8 @@ date: 2021-05-09 +0100
 filename: 2021-05-09-earthlings
 permalink: /:filename/
 ---
+a
+
 _Since we all inhabit the earth,  
 all of us are considered earthlings.  
 There is no sexism, no racism or speciesism in the term Earthling.  
