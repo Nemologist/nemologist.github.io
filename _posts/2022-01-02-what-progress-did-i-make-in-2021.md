@@ -7,6 +7,7 @@ maintag:
 date: 2022-01-02 +0100
 filename: 2022-01-02-what-progress-did-i-make-in-2021
 ---
+# 2022-01-02-what-progress-did-i-make-in-2021
 It is New Year’s Eve 2021 and I am sitting alone in my room because the party I wanted to go to was cancelled due to Covid. Has there ever been a better time to sit back and reflect?
 
 ## Coding & Foosball
